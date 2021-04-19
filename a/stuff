@@ -102,11 +102,11 @@ a:hover {
   <a href="/stuff/games"><div class="card">
     <h2>"Games"</h2><p>Some games i made that are so good trust me</p>
   </div></a>
-  <a href="/blog"><div class="card">
-    <h2>Blog</h2><p>I have stuff to say for some reason.</p>
-  </div></a>
   <a href="/stuff/nothing"><div class="card">
     <h2>Nothing</h2><p>nothing.</p>
+  </div></a>
+    <a href="/stuff/ads"><div class="card">
+    <h2>dumb ads</h2><p>fake ads</p>
   </div></a>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
